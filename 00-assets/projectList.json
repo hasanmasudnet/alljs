@@ -1,0 +1,400 @@
+[{
+    "index": 0,
+    "name": "Weather App",
+    "codeBase": "GitHub",
+    "urlLive": "https://weather-td.netlify.app/",
+    "urlCode": "https://github.com/TutulDevs/weatherApp",
+    "notes": "API"
+},
+    {
+        "index": 1,
+        "name": "Random Color Generator (RGB)",
+        "codeBase": "GitHub",
+        "urlLive": "https://all-js.netlify.app/01-randomcolor/",
+        "urlCode": "https://github.com/TutulDevs/All-JavaScript/tree/master/01-randomColor",
+        "notes": "--"
+    },
+    {
+        "index": 2,
+        "name": "ToDo List",
+        "codeBase": "GitHub",
+        "urlLive": "https://all-js.netlify.app/02-todo/",
+        "urlCode": "https://github.com/TutulDevs/All-JavaScript/tree/master/02-todo",
+        "notes": ".filter"
+    },
+    {
+        "index": 3,
+        "name": "Quick Tip",
+        "codeBase": "GitHub",
+        "urlLive": "https://codepen.io/TutulDevs/full/yLONyxd",
+        "urlCode": "https://github.com/TutulDevs/fun-JS/tree/master/00-quickTip",
+        "notes": "Math, .toFixed, substr"
+    },
+    {
+        "index": 4,
+        "name": "Running Tracker",
+        "codeBase": "GitHub",
+        "urlLive": "https://codepen.io/TutulDevs/full/GRZprWV",
+        "urlCode": "https://github.com/TutulDevs/fun-JS/tree/master/01-runningTracker",
+        "notes": ".reduce, .roFixed"
+    },
+    {
+        "index": 5,
+        "name": "Budgety",
+        "codeBase": "GitHub",
+        "urlLive": "https://all-js.netlify.app/03-budgety/",
+        "urlCode": "https://github.com/TutulDevs/All-JavaScript/tree/master/03-budgety",
+        "notes": "lots of ES5"
+    },
+    {
+        "index": 6,
+        "name": "Random Color Generator (Hexadecimal)",
+        "codeBase": "GitHub",
+        "urlLive": "https://all-js.netlify.app/01-randomcolor/",
+        "urlCode": "https://github.com/TutulDevs/All-JavaScript/tree/master/01-randomColor",
+        "notes": "--"
+    },
+    {
+        "index": 7,
+        "name": "Drum Kit",
+        "codeBase": "GitHub",
+        "urlLive": "https://all-js.netlify.app/04-drumKit",
+        "urlCode": "https://github.com/TutulDevs/All-JavaScript/tree/master/04-drumKit",
+        "notes": "transitionend, audio(play, volume), PWA"
+    },
+    {
+        "index": 8,
+        "name": "Register Form",
+        "codeBase": "GitHub",
+        "urlLive": "https://all-js.netlify.app/05-formValidator",
+        "urlCode": "https://github.com/TutulDevs/All-JavaScript/tree/master/05-formValidator",
+        "notes": "Form Validation, Regex"
+    },
+    {
+        "index": 9,
+        "name": "Rocket Game",
+        "codeBase": "GitHub",
+        "urlLive": "https://all-js.netlify.app/06-rocketGame",
+        "urlCode": "https://github.com/TutulDevs/All-JavaScript/tree/master/06-rocketGame",
+        "notes": "setTimeout, setInterval, .computedStyleMap()"
+    },
+    {
+        "index": 10,
+        "name": "Clock",
+        "codeBase": "GitHub",
+        "urlLive": "https://all-js.netlify.app/07-clock",
+        "urlCode": "https://github.com/TutulDevs/All-JavaScript/tree/master/07-clock",
+        "notes": "new Date(), setInterval, css: rotation"
+    },
+    {
+        "index": 11,
+        "name": "Movie Seat Booking",
+        "codeBase": "GitHub",
+        "urlLive": "https://all-js.netlify.app/08-movieSeat",
+        "urlCode": "https://github.com/TutulDevs/All-JavaScript/tree/master/08-movieSeat",
+        "notes": "forEach, [...], .map, localStorage"
+    },
+    {
+        "index": 12,
+        "name": "Box Shadow Maker",
+        "codeBase": "GitHub",
+        "urlLive": "https://all-js.netlify.app/09-boxShadow",
+        "urlCode": "https://github.com/TutulDevs/All-JavaScript/tree/master/09-boxShadow",
+        "notes": "CSS Varible in JS"
+    },
+    {
+        "index": 13,
+        "name": "Flexible Gallery",
+        "codeBase": "GitHub",
+        "urlLive": "https://all-js.netlify.app/10-flexGallery",
+        "urlCode": "https://github.com/TutulDevs/All-JavaScript/tree/master/10-flexGallery",
+        "notes": ".forEach, .propertyName"
+    },
+    {
+        "index": 14,
+        "name": "Type Ahead",
+        "codeBase": "GitHub",
+        "urlLive": "https://all-js.netlify.app/11-typeAhead",
+        "urlCode": "https://github.com/TutulDevs/All-JavaScript/tree/master/11-typeAhead",
+        "notes": "fetch, regEx"
+    },
+    {
+        "index": 15,
+        "name": "Canvas",
+        "codeBase": "GitHub",
+        "urlLive": "https://all-js.netlify.app/12-drawing",
+        "urlCode": "https://github.com/TutulDevs/All-JavaScript/tree/master/12-drawing",
+        "notes": "HTML5 Canvas, mouse events"
+    },
+    {
+        "index": 16,
+        "name": "Checkbox Checker",
+        "codeBase": "GitHub",
+        "urlLive": "https://all-js.netlify.app/13-checkboxes",
+        "urlCode": "https://github.com/TutulDevs/All-JavaScript/tree/master/13-checkboxes",
+        "notes": "click, forEach"
+    },
+    {
+        "index": 17,
+        "name": "Image Slider",
+        "codeBase": "GitHub",
+        "urlLive": "https://all-js.netlify.app/14-slider",
+        "urlCode": "https://github.com/TutulDevs/All-JavaScript/tree/master/14-slider",
+        "notes": "forEach, ternary"
+    },
+    {
+        "index": 18,
+        "name": "Video Player",
+        "codeBase": "GitHub",
+        "urlLive": "https://td-video.netlify.app/",
+        "urlCode": "https://github.com/TutulDevs/Video-Player",
+        "notes": "play(), pause(), playbackRate, currentTime, dataset"
+    },
+    {
+        "index": 19,
+        "name": "KONAMI Code",
+        "codeBase": "GitHub",
+        "urlLive": "https://all-js.netlify.app/16-KONAMI",
+        "urlCode": "https://github.com/TutulDevs/All-JavaScript/tree/master/16-KONAMI",
+        "notes": "Array, .push, .splice, keyup"
+    },
+    {
+        "index": 20,
+        "name": "Sticky Nav",
+        "codeBase": "GitHub",
+        "urlLive": "https://all-js.netlify.app/17-stickyNav",
+        "urlCode": "https://github.com/TutulDevs/All-JavaScript/tree/master/17-stickyNav",
+        "notes": "'scroll' event, .offsetTop, .scrollY"
+    },
+    {
+        "index": 21,
+        "name": "Scroll To Slide",
+        "codeBase": "GitHub",
+        "urlLive": "https://all-js.netlify.app/18-scrollToSlide",
+        "urlCode": "https://github.com/TutulDevs/All-JavaScript/tree/master/18-scrollToSlide",
+        "notes": "scroll, scrollY, offsetTop, forEach"
+    },
+    {
+        "index": 22,
+        "name": "Parallax Scroll Effect",
+        "codeBase": "GitHub",
+        "urlLive": "https://all-js.netlify.app/19-parallaxScroll",
+        "urlCode": "https://github.com/TutulDevs/All-JavaScript/tree/master/19-parallaxScroll",
+        "notes": "scroll, scrollY"
+    },
+    {
+        "index": 23,
+        "name": "List App",
+        "codeBase": "GitHub",
+        "urlLive": "https://all-js.netlify.app/20-localStorage",
+        "urlCode": "https://github.com/TutulDevs/All-JavaScript/tree/master/20-localStorage",
+        "notes": "localStorage, event delegation, .map(), object"
+    },
+    {
+        "index": 24,
+        "name": "Mouse Shadow",
+        "codeBase": "GitHub",
+        "urlLive": "https://all-js.netlify.app/21-mouseMove",
+        "urlCode": "https://github.com/TutulDevs/All-JavaScript/tree/master/21-mouseMove",
+        "notes": "mousemove, de-structure, (e)"
+    },
+    {
+        "index": 25,
+        "name": "Notable",
+        "codeBase": "GitHub",
+        "urlLive": "https://all-js.netlify.app/22-notable",
+        "urlCode": "https://github.com/TutulDevs/All-JavaScript/tree/master/22-notable",
+        "notes": "localStorage, event delegation, .map"
+    },
+    {
+        "index": 26,
+        "name": "Sortable Table",
+        "codeBase": "GitHub",
+        "urlLive": "https://all-js.netlify.app/23-sortList",
+        "urlCode": "https://github.com/TutulDevs/All-JavaScript/tree/master/23-sortList",
+        "notes": ".sort, .forEach, .map"
+    },
+    {
+        "index": 27,
+        "name": "Local JSON Fetch",
+        "codeBase": "GitHub",
+        "urlLive": "https://all-js.netlify.app/24-jsonFetch",
+        "urlCode": "https://github.com/TutulDevs/All-JavaScript/tree/master/24-jsonFetch",
+        "notes": "JSON, fetch, map"
+    },
+    {
+        "index": 28,
+        "name": "Pomodoro Timer",
+        "codeBase": "GitHub",
+        "urlLive": "https://all-js.netlify.app/25-pomodoro",
+        "urlCode": "https://github.com/TutulDevs/All-JavaScript/tree/master/25-pomodoro",
+        "notes": "setInterval, stopInterval"
+    },
+    {
+        "index": 29,
+        "name": "Follow Along Links",
+        "codeBase": "GitHub",
+        "urlLive": "https://all-js.netlify.app/26-followLinks",
+        "urlCode": "https://github.com/TutulDevs/All-JavaScript/tree/master/26-followLinks",
+        "notes": "mouseenter, .getBoundingClientRect, .createElement"
+    },
+    {
+        "index": 30,
+        "name": "Drag & Drop",
+        "codeBase": "GitHub",
+        "urlLive": "https://all-js.netlify.app/27-dragDrop",
+        "urlCode": "https://github.com/TutulDevs/All-JavaScript/tree/master/27-dragDrop",
+        "notes": "forEach, dragstart, dragover, drop, dataTransfer, setData, getData, currentTime"
+    },
+    {
+        "index": 31,
+        "name": "BMI Calculator",
+        "codeBase": "GitHub",
+        "urlLive": "https://all-js.netlify.app/28-bmiCalc",
+        "urlCode": "https://github.com/TutulDevs/All-JavaScript/tree/master/28-bmiCalc",
+        "notes": "Math, submit"
+    },
+    {
+        "index": 32,
+        "name": "Currency Converter",
+        "codeBase": "GitHub",
+        "urlLive": "https://all-js.netlify.app/29-currencyConvert",
+        "urlCode": "https://github.com/TutulDevs/All-JavaScript/tree/master/29-currencyConvert",
+        "notes": "API, Fetch, change"
+    },
+    {
+        "index": 33,
+        "name": "Article Preview Component",
+        "codeBase": "GitHub",
+        "urlLive": "https://all-js.netlify.app/30-articlePrev",
+        "urlCode": "https://github.com/TutulDevs/All-JavaScript/tree/master/30-articlePrev",
+        "notes": "target, dataset"
+    },
+    {
+        "index": 34,
+        "name": "FAQ Accordion",
+        "codeBase": "GitHub",
+        "urlLive": "https://all-js.netlify.app/31-faqAccordion",
+        "urlCode": "https://github.com/TutulDevs/All-JavaScript/tree/master/31-faqAccordion",
+        "notes": "toggle, forEach"
+    },
+    {
+        "index": 35,
+        "name": "Twitter Threader",
+        "codeBase": "GitHub",
+        "urlLive": "https://all-js.netlify.app/32-threader",
+        "urlCode": "https://github.com/TutulDevs/All-JavaScript/tree/master/32-threader",
+        "notes": "for loop, map, object, ternary"
+    },
+    {
+        "index": 36,
+        "name": "Contact List",
+        "codeBase": "GitHub",
+        "urlLive": "https://all-js.netlify.app/33-contactList",
+        "urlCode": "https://github.com/TutulDevs/All-JavaScript/tree/master/33-contactList",
+        "notes": "array, object, map, forEach, split, splice, join"
+    },
+    {
+        "index": 37,
+        "name": "Dark Mode",
+        "codeBase": "GitHub",
+        "urlLive": "https://all-js.netlify.app/34-darkMode",
+        "urlCode": "https://github.com/TutulDevs/All-JavaScript/tree/master/34-darkMode",
+        "notes": "classList, toggle"
+    },
+    {
+        "index": 38,
+        "name": "Fluffy Friends",
+        "codeBase": "GitHub",
+        "urlLive": "https://all-js.netlify.app/35-fluffyFrn",
+        "urlCode": "https://github.com/TutulDevs/All-JavaScript/tree/master/35-fluffyFrn",
+        "notes": "forEach, ternary, filtering"
+    },
+    {
+        "index": 39,
+        "name": "Line Chart",
+        "codeBase": "GitHub",
+        "urlLive": "https://all-js.netlify.app/36-lineChart",
+        "urlCode": "https://github.com/TutulDevs/All-JavaScript/tree/master/36-lineChart",
+        "notes": "insertAdjacentHTML, Math, substr"
+    },
+    {
+        "index": 40,
+        "name": "Budget App",
+        "codeBase": "GitHub",
+        "urlLive": "https://all-js.netlify.app/37-budgetApp",
+        "urlCode": "https://github.com/TutulDevs/All-JavaScript/tree/master/37-budgetApp",
+        "notes": "Math, .map, .forEach, localStorage, event delegation, dataset, object, ternary, form"
+    },
+    {
+        "index": 41,
+        "name": "Duo Tone Card",
+        "codeBase": "GitHub",
+        "urlLive": "https://all-js.netlify.app/38-duoToneCard",
+        "urlCode": "https://github.com/TutulDevs/All-JavaScript/tree/master/38-duoToneCard",
+        "notes": "Math, .toString, .substr"
+    },
+    {
+        "index": 42,
+        "name": "Countdown Timer",
+        "codeBase": "GitHub",
+        "urlLive": "https://carlaaron.netlify.app/",
+        "urlCode": "https://github.com/TutulDevs/Carla",
+        "notes": "Date, Math, modal"
+    },
+    {
+        "index": 43,
+        "name": "Contact App",
+        "codeBase": "GitHub",
+        "urlLive": "https://all-js.netlify.app/39-contactApp",
+        "urlCode": "https://github.com/TutulDevs/All-JavaScript/tree/master/39-contactApp",
+        "notes": "map, toggle, array, object, localStorage, search filter"
+    },
+    {
+        "index": 44,
+        "name": "Weather Clock",
+        "codeBase": "GitHub",
+        "urlLive": "https://all-js.netlify.app/40-weatherClock",
+        "urlCode": "https://github.com/TutulDevs/All-JavaScript/tree/master/40-weatherClock",
+        "notes": "API, async await, map, array, object, localStorage"
+    },
+    {
+        "index": 45,
+        "name": "Lazy Loading",
+        "codeBase": "GitHub",
+        "urlLive": "https://all-js.netlify.app/41-lazyLoading",
+        "urlCode": "https://github.com/TutulDevs/All-JavaScript/tree/master/41-lazyLoading",
+        "notes": "Intersection Observer API, lazy loading image"
+    },
+    {
+        "index": 46,
+        "name": "JS Bank",
+        "codeBase": "GitHub",
+        "urlLive": "https://all-js.netlify.app/42-JSBank",
+        "urlCode": "https://github.com/TutulDevs/All-JavaScript/tree/master/42-JSBank",
+        "notes": "Date, insertAdjacentHTML, Form"
+    },
+    {
+        "index": 47,
+        "name": "Furnit",
+        "codeBase": "GitHub",
+        "urlLive": "https://all-js.netlify.app/43-Furnit",
+        "urlCode": "https://github.com/TutulDevs/All-JavaScript/tree/master/43-Furnit",
+        "notes": "e-commerce site, class, forEach, map, find, localStorage"
+    },
+    {
+        "index": 48,
+        "name": "Pagination",
+        "codeBase": "GitHub",
+        "urlLive": "https://all-js.netlify.app/44-pagination",
+        "urlCode": "https://github.com/TutulDevs/All-JavaScript/tree/master/44-pagination",
+        "notes": "async, await, NumberFormat, map, for loop, forEach, insertAdjacentHTML"
+    },
+    {
+        "index": 49,
+        "name": "Jobss",
+        "codeBase": "GitHub",
+        "urlLive": "https://jobss.netlify.app/",
+        "urlCode": "https://github.com/TutulDevs/Jobs",
+        "notes": "async, await, map, forEach, localStorage, event delegation"
+    }]
